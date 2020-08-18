@@ -1,0 +1,45 @@
+#forrest {
+    /* position relative to original position */
+    background-color: #044a17;
+    height: 600px;
+    width: 1200px;
+    position: relative;
+    border: 2px solid black;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+#house {
+    background-color: #5c2020;
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 625px;
+}
+
+.wolves {
+    background-color: gray;
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+
+#player {
+    background-color: red;
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 540px;
+    left: 625px;
+
+}
+
+
+
+
